@@ -2,6 +2,10 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+## 🌐 Live Demo
+
+**[Visit Live App](https://mern-stack-project-vefu.onrender.com)** 🚀
+
 [Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
 
 ## 🌟 Highlights
